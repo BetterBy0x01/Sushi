@@ -1,3 +1,7 @@
+## To run the application
+```
+$ npm run dev
+```
 - Use CSS variables
 - Import CSS files into other CSS files
 - Use flex and position properties in CSS
